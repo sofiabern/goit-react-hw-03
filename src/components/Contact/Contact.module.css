@@ -1,0 +1,25 @@
+.contact-wrapper{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+padding: 8px;
+
+border : 1px solid #111111;
+border-radius: 4px;
+}
+
+.contact-info{
+display: flex;
+flex-direction: column;
+gap: 8px;
+}
+
+.contact-text{
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    margin-right: 8px
+}
